@@ -1,0 +1,116 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+img
+{
+	border: none;
+}
+.box
+{
+	margin: 0 auto;
+	width: 970px;
+	font-family: "宋体";
+	font-size: 15px;
+	text-align: center;
+	color: #333;
+}
+.clear
+{
+	clear: both;
+}
+ul li
+{
+	list-style: none;
+}
+a
+{
+	text-decoration: none;
+	color: #333;
+}
+a:hover
+{
+	color: #FF0000;
+}
+.menu
+{
+	background: url(../images/menu_bj.jpg) repeat-x;
+	width: 960px;
+	height: 59px;
+	margin: 0 auto;
+}
+.menu a
+{
+	float: left;
+	font-size: 14px;
+	color: #FFFFFF;
+	display: block;	
+	margin: 0 12px 0 15px;
+	padding-left: 3px;
+	padding-top: 20px;
+}
+.menu img
+{
+	float: left;
+	padding-top: 9px;
+}
+.content
+{
+	margin: 0 auto;
+	width: 960px;
+}
+.left
+{
+	width: 230px;
+	background: url(../images/yy.jpg) repeat-y;
+}
+.zcd
+{
+	padding: 10px 12px 0px 10px;
+}
+.zcd a
+{
+	line-height: 30px;
+}
+.zcd tr td
+{
+	border-bottom: 1px dotted #cccccc;
+}
+.right
+{
+	width: 700px;
+	padding: 0px;
+	margin: 0px;
+}
+.zxjs
+{
+	margin: 10px 0px 10px 9px;
+}
+.zxjs_bt
+{
+	color: #ff6600;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.zxjs_nr
+{
+	margin-top: 10px;
+	line-height: 24px;
+}
+.zxjs_nr img
+{
+	margin-right: 10px;
+	float: none;
+}
+.foot
+{
+	background: url(../images/foot_bj.jpg) repeat-x;
+	border: solid 1px #bde7f3;
+	height: 60px;
+	margin: 0 auto;
+	width: 960px;
+	margin-top: 7px;
+	text-align: center;
+	padding-top: 30px;
+}
